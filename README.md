@@ -3,8 +3,8 @@
 
 ## SoilMoistureSensorPi
 
- [<img src="Screenshots/SoilMoistureSensorPi.png">]
+<img src="Screenshots/SoilMoistureSensorPi.png">
 
 ## Autoplant
 
- [<img src="Screenshots/Autoplant.png">]
+<img src="Screenshots/Autoplant.png">
