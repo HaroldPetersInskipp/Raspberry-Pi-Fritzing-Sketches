@@ -5,6 +5,7 @@
 
 <img src="Screenshots/SoilMoistureSensorPi.png">
 
-## Autoplant
+## Autoplant Prototype
+Still a work in progress
 
 <img src="Screenshots/Autoplant.png">
